@@ -68,7 +68,7 @@ Currently:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Aaron27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Aaron27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Aaron27&layout=compact&theme=tokyonight&hide_border=true&hide=python"/>
 
 </p>
 
