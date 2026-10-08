@@ -1,10 +1,31 @@
+ <h1 align="center">Hi 👋 I'm Aaron</h1>
 
-<h1 align="center">Hi 👋 I'm Aaron</h1>
-
-<h3 align="center">Developer • Backend Enthusiast • Open </h3>
+<h3 align="center">Developer • Backend Enthusiast • Open Source Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Backend+Developer;Discord+Bot+Developer;Always+Learning+Something+New;Building+Reliable+Software" alt="Typing SVG" />
+</p>
+
+---
+
+## ❤️ Support My Work
+
+<p align="center">
+  If you enjoy my projects or find my work useful, consider sponsoring me on GitHub!
+  <br/>
+  Your support helps me continue developing open-source projects, Discord bots, hosting infrastructure, and useful tools.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/Dev-Aaron27">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4%EF%B8%8F-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me on GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/Dev-Aaron27">
+    <img src="https://github.com/sponsors/Dev-Aaron27/card" alt="Sponsor Dev-Aaron27" width="600"/>
+  </a>
 </p>
 
 ---
@@ -113,6 +134,6 @@ Problem Solving       ███████████████████�
 
 <p align="center">
 
-*"Code is more than solving problems - it's about building something useful."*
+<i>"Code is more than solving problems - it's about building something useful."</i>
 
 </p>
