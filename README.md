@@ -62,13 +62,13 @@ Currently:
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Aaron27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Aaron27&layout=compact&theme=tokyonight&hide_border=true&hide=python"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Aaron27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -77,7 +77,6 @@ Currently:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Aaron27&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements
