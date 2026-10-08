@@ -80,16 +80,6 @@ Currently:
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/Dev-Aaron27">
-    <img src="https://img.shields.io/badge/View%20my%20GitHub%20activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/>
-  </a>
-</p>
-
----
-
 ## 💻 Development
 
 ```text
